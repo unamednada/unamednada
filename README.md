@@ -48,6 +48,10 @@
    <a href="" target="_blank">
     <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   </a>
+   
+   <a href="" target="_blank">
+    <img alt="RTL" src="https://img.shields.io/badge/RTL-FF0000?style=for-the-badge">
+  </a>
 
    <a href="" target="_blank">
     <img alt="agile methodology" src="https://img.shields.io/badge/agile_methodology-239120?style=for-the-badge">
