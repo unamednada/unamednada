@@ -25,42 +25,47 @@
 - 👯 I’m looking to collaborate on open source projects
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="html5" src="https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
 
    <a href="" target="_blank">
     <img alt="css3" src="https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
+   </a>
 
    <a href="" target="_blank">
     <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
+   </a>
 
    <a href="" target="_blank">
     <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  </a>
+   </a>
 
    <a href="" target="_blank">
     <img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  </a>
+   </a>
 
    <a href="" target="_blank">
     <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
+   </a>
    
    <a href="" target="_blank">
     <img alt="RTL" src="https://img.shields.io/badge/RTL-FF0000?style=for-the-badge">
-  </a>
+   </a>
 
    <a href="" target="_blank">
     <img alt="agile methodology" src="https://img.shields.io/badge/agile_methodology-239120?style=for-the-badge">
-  </a>
+   </a>
 
    <a href="" target="_blank">
     <img alt="scrum" src="https://img.shields.io/badge/scrum-1572B6?style=for-the-badge">
   </a>
-<a href=""><img alt="kanban" src="https://img.shields.io/badge/kanban-CC2927?style=for-the-badge"></a>
+  <a href="" target="_blank">
+    <img alt="kanban" src="https://img.shields.io/badge/kanban-CC2927?style=for-the-badge">
+  </a>
+   <a href="" target="_blank">
+    <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  </a>
 
    <!-- <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
@@ -102,14 +107,5 @@
 
 ## Popular Projects
 <h3><em>Coming soon...</em></h3>
-<!-- <a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
-</a>  
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a>  -->
 
 ----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12)
-
-Last Edited on: 05/11/2021
