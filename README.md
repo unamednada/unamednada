@@ -58,34 +58,33 @@
   <a href="" target="_blank">
   <img alt="jest" src="https://img.shields.io/badge/Context api-C21325?style=for-the-badge">
   </a>
-  <a>
+  <a href="" target="_blank">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
 <h3>Back end</h3>
-  <a>
+  <a href="" target="_blank">
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-  <a>
+  <a href="" target="_blank">
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a>
-  <a>
+  <a href="" target="_blank">
     <img alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   </a>
-  <a>
+  <a href="" target="_blank">
     <img alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   </a>
 <h3>Deploy & Cloud</h3>
-  <a>
+  <a href="" target="_blank">
     <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   </a>
-  <a>
   <a href="" target="_blank">
     <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
-  <a>
+  <a href="" target="_blank">
     <img alt="supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
   </a>
-  <a>
+  <a href="" target="_blank">
     <img alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   </a>
 <h3>Test & Auth</h3>
