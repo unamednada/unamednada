@@ -39,7 +39,7 @@
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
-<h3>Front end & UI</h3>
+<h3>Stack</h3>
   <a href="" target="_blank"> 
     <img alt="html5" src="https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
@@ -61,7 +61,6 @@
   <a href="" target="_blank">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
-<h3>Back end</h3>
   <a href="" target="_blank">
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
@@ -74,7 +73,6 @@
   <a href="" target="_blank">
     <img alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   </a>
-<h3>Deploy & Cloud</h3>
   <a href="" target="_blank">
     <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   </a>
@@ -87,7 +85,6 @@
   <a href="" target="_blank">
     <img alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   </a>
-<h3>Test & Auth</h3>
   <a href="" target="_blank">
     <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   </a>
@@ -101,10 +98,16 @@
     <img alt="chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="chai" src="https://img.shields.io/badge/sinon.js-90EE90?style=for-the-badge">
+    <img alt="sinon" src="https://img.shields.io/badge/sinon.js-90EE90?style=for-the-badge">
   </a>
   <a href="" target="_blank">
     <img alt="jwt" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=Typescript&logoColor=blue"
+  </a>
+  <a href="" target="_blank">
+    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-228C22?style=for-the-badge&logo=Mongodb&logoColor=white"
   </a>
 
    <!-- <a href="" target="_blank">
