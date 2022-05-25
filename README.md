@@ -12,6 +12,9 @@
 </p>
 
 <h2>Check me out 👩‍💻</h2>
+  <a href="https://unamednada.github.io" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/unamednada/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
