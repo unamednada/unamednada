@@ -163,6 +163,6 @@
 <br/>
 
 ## Popular Projects
-<h3><em>Coming soon...</em></h3>
+<h3><em>Look the pinned repositories below!</em></h3>
 
 ----------------------------------------------------------------------
